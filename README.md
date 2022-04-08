@@ -53,7 +53,7 @@ The bikes with larger bubbles have higher utilization and need our attention. Th
 
 There is a spike in Age Group – (1965-1970) and (2000-2005), may be they are using for their work or school/university because bike trips are maximum in peak hours.
 
-![STORY-BIKE_TARGET_AUDIENCE]()
+![STORY-BIKE_TARGET_AUDIENCE](https://github.com/AditiOracle/NYC_citibike_Challenge/blob/main/Resources/Story.PNG)
 
 **Summary:**
 
