@@ -17,7 +17,7 @@ At last, I created the story using the dashboards I have created to see the Targ
 
 **Results:**
 
-1. ![Checkout Times for Users](https://github.com/AditiOracle/NYC_citibike_Challenge/blob/main/Resources/Checkout_Time_for_Users.png)
+1. [Checkout Times for Users](https://github.com/AditiOracle/NYC_citibike_Challenge/blob/main/Resources/Checkout_Time_for_Users.png)
 
 Maximum Users are checking the bikes for approximately 30-40 minutes. Few hundreds are checking out for 1 hour or more.
 
