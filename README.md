@@ -53,6 +53,8 @@ The bikes with larger bubbles have higher utilization and need our attention. Th
 
 There is a spike in Age Group – (1965-1970) and (2000-2005), may be they are using for their work or school/university because bike trips are maximum in peak hours.
 
+![STORY-BIKE_TARGET_AUDIENCE]()
+
 **Summary:**
 
 As per my analysis, mostly the Male Subscribers are using the bike more during the peak hour in weekdays for at least 25-30 minutes.
