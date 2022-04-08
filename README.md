@@ -73,7 +73,7 @@ At last, I created the story using the dashboards I have created to see the Targ
 
 1. **Average Trip Duration by Age**
 
-![Average Trip Duration by Age](https://github.com/AditiOracle/NYC\_citibike\_Challenge/blob/main/Resources/Average\_trip\_duration\_by\_age\_group.png)
+![Average Trip Duration by Age](https://github.com/AditiOracle/NYC\_citibike\_Challenge/blob/main/Resources/Average\_Trip\_Duration.png)
 
 - There is a spike in Age Group – (1965-1970) and (2000-2005), may be they are using for their work or school/university because bike trips are maximum in peak hours.
 
@@ -81,7 +81,7 @@ At last, I created the story using the dashboards I have created to see the Targ
 
 **STORY**
 
-![STORY-BIKE\_TARGET\_AUDIENCE]([https://github.com/AditiOracle/NYC\_citibike\_Challenge/blob/main/Resources/Story.PNG](https://github.com/AditiOracle/NYC_citibike_Challenge/blob/main/Resources/Story.PNG))
+![STORY\_BIKE\_TARGET\_AUDIENCE](https://github.com/AditiOracle/NYC\_citibike\_Challenge/blob/main/Resources/Story.PNG)
 
 =================================================
 
