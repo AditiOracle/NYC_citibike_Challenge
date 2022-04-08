@@ -3,7 +3,7 @@
 
 **NYC bike ride challenge**
 
-[link to dashboard](https://public.tableau.com/app/profile/aditi.sharma1220/viz/NYC\_citibike\_challenge\_16492119360910/BikeUtilizationbyStartingLocation?publish=yes)
+[link to dashboard](https://public.tableau.com/app/profile/aditi.sharma1220/viz/NYC\_citibike\_challenge\_16492119360910/BikeUtilizationbyStartingLocation?publish=yes "link to dashboard")
 
 **Overview of the analysis:** We are working on project to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, we have done our analysis on a bike trip analysis on NYC bike ride data of August 2019.
 
